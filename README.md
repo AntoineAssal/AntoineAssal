@@ -6,8 +6,8 @@
 ## I'm a Computer Science and Engineering Student at Concordia University
 - 💼 I’m a Junior Dev working on [Data 4 Action](http://data4actions.com)'s project.
 - 📚 I’m currently learning everything about Frontend and Backend technologies with some DevOps 😅
-- I enjoy gaming, music, 
-- 
+- ✨ I'm into gaming, poetry, graphic/UI design and the color green 💚
+- 🤡 I have a love/hate relationship with programming and occasionaly participate in Hackathons. 
 - 👨‍💻 In the future I would like to learn about [three.js](https://github.com/mrdoob/three.js)
 
 
