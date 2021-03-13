@@ -4,8 +4,8 @@ My name is **Antoine**
 
 <!--**AntoineAssal/AntoineAssal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 👨‍💻 I'm a Computer Science and Engineering Student at Concordia University
-- 💼 I’m a Junior Dev working on [Data 4 Action](http://data4actions.com)'s project.
+- 👨‍💻 I'm a Computer Science and Engineering Student at Concordia University.
+- 💼 I’m a Junior Dev working on a healthcare platform.
 - 📚 I’m currently learning everything about Frontend and Backend technologies with some DevOps 😅
 - ✨ I'm into gaming, music, poetry (lyrics), graphic/UI design and the color green 💚
 - 🤡 I have a love/hate relationship with programming and occasionaly participate in Hackathons. 
