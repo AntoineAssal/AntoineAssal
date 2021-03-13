@@ -44,18 +44,19 @@ My name is **Antoine**
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
 ![Majaro](https://img.shields.io/badge/-Manjaro-05122A?style=flat&logo=manjaro)
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0080ff)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ed)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)
-![Prezi](https://img.shields.io/badge/-Prezi-05122A?style=flat&logo=prezi)
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=23026AA7)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![VS Code](http://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+![Prezi](https://img.shields.io/badge/-Prezi-05122A?style=flat&logo=prezi&logoColor=0080ff)
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0080ff)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=6700cd)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=IntelliJ-idea)
+![VS Code](http://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=0080ff)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
-![Adobe](https://img.shields.io/badge/-Adobe-05122A?style=flat&logo=Adobe)
+![Adobe](https://img.shields.io/badge/-Adobe-05122A?style=flat&logo=Adobe&logoColor=FF0000)
 
 
 
