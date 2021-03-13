@@ -61,6 +61,8 @@ My name is **Antoine**
 ## My Github Stats
  
  <img align="left" alt="Antoine's Github Stats" src="https://github-readme-stats-antoineassal.vercel.app/api?username=AntoineAssal&show_icons=true&hide_border=true&theme=gotham&count_private=true" />
+ <!----
+<img align="right" alt="Antoine's most used langauges" src="https://github-readme-stats-antoineassal.vercel.app/api/top-langs/?username=AntoineAssal&layout=compact&ytheme=gotham" />
 
 
 
