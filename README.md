@@ -1,4 +1,4 @@
-# Hello, Friend! <img align="right" height="45px" src="https://cdn.discordapp.com/attachments/626937929121529896/820101529692405790/53bf53eb8b91d0990ddc32cbc30becee222.png">
+# Hello, Friend! <img align="right" height="75px" src="https://cdn.discordapp.com/attachments/626937929121529896/820101529692405790/53bf53eb8b91d0990ddc32cbc30becee222.png">
 
 My name is **Antoine**
 
