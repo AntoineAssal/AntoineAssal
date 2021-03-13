@@ -15,7 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-----------Currently playing song, using Novak's repo and spotitfy API  -->
+What I'm listening to now
+[<img src="https://novatorem-antoineassal.vercel.app/api/spotify-playing" alt="Antoine Now playing" width="350"/>]
+
+
+
+
+
+<!-----------Github stats, using my instance of a vercel app running https://github.com/anuraghazra/github-readme-stats -->
+
 <details>
-  <summary>:zap: My Github Stats </sumamry>
+  <summary>:zap: My Github Stats </summary>
   
   <img align="left" alt="Antoine's Github Stats" src="https://github-readme-stats-antoineassal.vercel.app/api?username=AntoineAssal&show_icons=true&hide_border=true&theme=gotham&count_private=true" />
+</details>
