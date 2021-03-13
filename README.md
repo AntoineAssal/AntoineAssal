@@ -1,9 +1,10 @@
 # Hello, Friend! <img height="30px" src="https://cdn.discordapp.com/attachments/626937929121529896/820101529692405790/53bf53eb8b91d0990ddc32cbc30becee222.png">
-## My name is Antoine
+
+My name is **Antoine**
 
 <!--**AntoineAssal/AntoineAssal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## I'm a Computer Science and Engineering Student at Concordia University
+- 👨‍💻 I'm a Computer Science and Engineering Student at Concordia University
 - 💼 I’m a Junior Dev working on [Data 4 Action](http://data4actions.com)'s project.
 - 📚 I’m currently learning everything about Frontend and Backend technologies with some DevOps 😅
 - ✨ I'm into gaming, poetry, graphic/UI design and the color green 💚
@@ -11,7 +12,7 @@
 - 👨‍💻 In the future I would like to learn about [three.js](https://github.com/mrdoob/three.js)
 
 
-### Languages and Tools I'm comfy using 🛠 
+## Languages and Tools I'm comfy using 🛠 
 
 #### Backend : <br />
 
@@ -24,7 +25,7 @@
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 
 
-#### Frontend : <br />
+### Frontend : <br />
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -34,7 +35,7 @@
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
-#### OS & IDE & Tools <br />
+### OS & IDE & Tools <br />
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)
 ![Majaro](https://img.shields.io/badge/-Manjaro-05122A?style=flat&logo=manjaro)
