@@ -20,6 +20,9 @@ What I'm listening to now
 [<img src="https://novatorem-antoineassal.vercel.app/api/spotify-playing" alt="Antoine Now playing" width="350"/>]
 
 
+[![Spotify](https://novatorem-antoineassal.vercel.app/api/spotify)](https://open.spotify.com/user/Antoine.assal)
+
+
 
 
 
