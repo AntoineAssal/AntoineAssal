@@ -29,11 +29,11 @@ My name is **Antoine**
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flatlogo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)
+![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 
 ### OS & IDE & Tools <br />
 
@@ -50,11 +50,6 @@ My name is **Antoine**
 
 
 
-<!-----------Github stats, using my instance of a vercel app running https://github.com/anuraghazra/github-readme-stats -->
-
-## My Github Stats
-  
- <img align="left" alt="Antoine's Github Stats" src="https://github-readme-stats-antoineassal.vercel.app/api?username=AntoineAssal&show_icons=true&hide_border=true&theme=gotham&count_private=true" />
 
 <!----------Currently playing song, using Novak's repo and spotitfy API  -->
 ## What I'm listening to now 🎧
@@ -62,6 +57,11 @@ My name is **Antoine**
 [![Spotify](https://novatorem-antoineassal.vercel.app/api/spotify)](https://open.spotify.com/user/Antoine.assal)
 
 
+<!-----------Github stats, using my instance of a vercel app running https://github.com/anuraghazra/github-readme-stats -->
+
+## My Github Stats
+ 
+ <img align="left" alt="Antoine's Github Stats" src="https://github-readme-stats-antoineassal.vercel.app/api?username=AntoineAssal&show_icons=true&hide_border=true&theme=gotham&count_private=true" />
 
 
 
