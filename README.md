@@ -1,15 +1,13 @@
 # Hello, Friend! <img align="right" height="75px" src="https://cdn.discordapp.com/attachments/626937929121529896/820101529692405790/53bf53eb8b91d0990ddc32cbc30becee222.png">
 
-My name is **Antoine**
+My name is **Antoine** Assal 🍯
 
-<!--**AntoineAssal/AntoineAssal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-- 👨‍💻 I'm a Computer Science Student at Concordia University.
-- 💼 I’m a Junior Dev working on a healthcare platform.
+- 👨‍💻 I'm a student at Concordia's Gina Cody School of Engineering and Computer Science.
+- 💼 I’m a Junior Full-Stack Dev working at a startup that is focused on healthcare economics and platforms.
 - 📚 I’m currently learning everything about Frontend and Backend technologies with some DevOps 😅
-- ✨ I'm into gaming, music, poetry (lyrics), graphic/UI design and the color green 💚
+- ✨ I'm into gaming, music, problem solving, poetry (I mean song lyrics), graphic/UI design and the color green 💚
 - 🤡 I have a love/hate relationship with programming and occasionaly participate in Hackathons. 
-- 👨‍💻 In the future I would like to learn about [three.js](https://github.com/mrdoob/three.js)
+- 👨‍💻 In the future I plan on learning about [three.js](https://github.com/mrdoob/three.js)
 
 
 ## Languages and Tools I'm comfy using 🛠 
@@ -27,12 +25,13 @@ My name is **Antoine**
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex)
 
 
-#### Frameworks : <br />
+#### 👽 Frameworks : <br />
 
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![Bulma](https://img.shields.io/badge/-bulma-05122A?style=flat&logo=bulma)
 
 #### 🗄️ Databases : 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=0273B7)
@@ -49,6 +48,7 @@ My name is **Antoine**
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ed)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-05122A?style=flat&logo=google-cloud)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)
 ![Prezi](https://img.shields.io/badge/-Prezi-05122A?style=flat&logo=prezi&logoColor=0080ff)
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0080ff)
