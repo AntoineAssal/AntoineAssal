@@ -37,7 +37,7 @@ My name is **Antoine** Assal 🍯
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=0273B7)
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)
-
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=google-cloud)
 
 #### 🛠 OS & IDE & Tools <br />
 
