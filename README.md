@@ -18,7 +18,7 @@ My name is **Antoine** Assal 🍯
 ![Python](http://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=4951aa)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flatlogo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
