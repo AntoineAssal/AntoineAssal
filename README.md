@@ -63,7 +63,7 @@ My name is **Antoine** Assal 🍯
 
 
 <!----------Currently playing song, using Novak's repo and spotitfy API  -->
-## What I'm listening to now 🎧
+## What I'm listening to now (or last played) 🎧
 
 [![Spotify](https://novatorem-antoineassal.vercel.app/api/spotify)](https://open.spotify.com/user/Antoine.assal)
 
