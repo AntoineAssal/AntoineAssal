@@ -2,12 +2,12 @@
 
 My name is **Antoine** aka **Ant1** 🍯 
 
-- 👨‍💻 I'm a full-time student at Concordia's Gina Cody School of Engineering and Computer Science.
-- 💼 I’m a Junior Full-Stack Dev working at a startup that is focused on healthcare economics and platforms.
-- 📚 I’m currently learning everything I can about Frontend and Backend technologies with some DevOps.
-- 💚 I'm into gaming, music, problem solving, poetry (I actually mean lyrics), graphics/animations/UI design and the color green.
-- 🤡 I have a love/hate relationship with programming and occasionaly participate in Hackathons. 
-- 👨‍💻 In the future I plan on learning about [three.js](https://github.com/mrdoob/three.js)
+#### 👨‍💻 I'm a full-time student at Concordia's Gina Cody School of Engineering and Computer Science.
+#### 💼 I’m a Junior Full-Stack Dev working at a startup that is focused on healthcare economics and platforms.
+#### 📚 I’m currently learning everything I can about Frontend and Backend technologies with some DevOps.
+#### 💚 I'm into gaming, music, problem solving, poetry (I actually mean lyrics), graphics/animations/UI design and the color green.
+#### 🤡 I have a love/hate relationship with programming and occasionaly participate in Hackathons. 
+#### 👨‍💻 In the future I plan on learning about [three.js](https://github.com/mrdoob/three.js)
 
 
 ## Languages and Tools used at school/work/personal projects
