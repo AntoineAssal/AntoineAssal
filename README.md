@@ -1,11 +1,11 @@
 # Hello, Friend!  <img align="right" height="75px" src="https://cdn.discordapp.com/attachments/626937929121529896/820101529692405790/53bf53eb8b91d0990ddc32cbc30becee222.png">
 
-My name is **Antoine** Assal 🍯
+My name is **Antoine** aka **Ant1** 🍯 
 
 - 👨‍💻 I'm a full-time student at Concordia's Gina Cody School of Engineering and Computer Science.
 - 💼 I’m a Junior Full-Stack Dev working at a startup that is focused on healthcare economics and platforms.
-- 📚 I’m currently learning everything I can about Frontend and Backend technologies with some DevOps. 😅
-- ✨ I'm into gaming, music, problem solving, poetry (I actually mean lyrics), graphics/animations/UI design and the color green 💚
+- 📚 I’m currently learning everything I can about Frontend and Backend technologies with some DevOps.
+- 💚 I'm into gaming, music, problem solving, poetry (I actually mean lyrics), graphics/animations/UI design and the color green.
 - 🤡 I have a love/hate relationship with programming and occasionaly participate in Hackathons. 
 - 👨‍💻 In the future I plan on learning about [three.js](https://github.com/mrdoob/three.js)
 
@@ -118,14 +118,14 @@ My name is **Antoine** Assal 🍯
 </p>
 
 <!----------Currently playing song, using Novak's repo and spotitfy API  -->
-## What I'm listening to now (or last played) 🎧
+## 🎧 What I'm listening to now (or last played) 
 
 [![Spotify](https://novatorem-antoineassal.vercel.app/api/spotify)](https://open.spotify.com/user/Antoine.assal)
 
 
 <!-----------Github stats, using my instance of a vercel app running https://github.com/anuraghazra/github-readme-stats -->
 
-## My Github Stats
+## 📊 My Github Stats
 
 <p align="center">
 <img alt="Antoine's Github Stats" src="https://github-readme-stats-antoineassal.vercel.app/api?username=AntoineAssal&show_icons=true&hide_border=true&theme=gotham&count_private=true" /> <br>
