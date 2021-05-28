@@ -66,7 +66,7 @@ My name is **Antoine** Assal 🍯
 </p>
  
 
-#### 💾 Technologies & OS - <br />
+#### 💾 Technologies & OS <br />
 <p  align="center">
 <img src="https://img.shields.io/badge/-Postman-144a41?style=for-the-badge&logo=postman">
 <img src="https://img.shields.io/badge/-Git-144a41?style=for-the-badge&logo=git">
