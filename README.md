@@ -3,7 +3,7 @@
 My name is **Antoine** aka **Ant1** 🍯 
 
 #### 👨‍💻 I'm a full-time student at Concordia's Gina Cody School of Engineering and Computer Science.
-#### 📚 I’m currently learning everything I can about Frontend and Backend technologies with some DevOps.
+#### 📚 I’m currently learning about Rust and Solana.
 #### 💚 I'm into gaming, music, problem solving, poetry (I actually mean lyrics), graphics/animations/UI design and the color green.
 #### 🤡 I have a love/hate relationship with programming and occasionaly participate in Hackathons. 
 
@@ -24,9 +24,7 @@ My name is **Antoine** aka **Ant1** 🍯
 </p>
 <h4 align="center"> To learn</h4>
 <p  align="center">
-<img src="https://img.shields.io/badge/-PHP-144a41?style=for-the-badge&logo=Php">
 <img src="http://img.shields.io/badge/-Ruby-144a41?style=for-the-badge&logo=Ruby&logoColor=CC342D">
-<img src="http://img.shields.io/badge/-TypeScript-144a41?style=for-the-badge&logo=typescript">
 </p>
  
 #### 👽 Frameworks / Libraries  <br />
@@ -34,14 +32,15 @@ My name is **Antoine** aka **Ant1** 🍯
 <p  align="center">
 <img src="https://img.shields.io/badge/-Flask-144a41?style=for-the-badge&logo=flask">
 <img src="https://img.shields.io/badge/-React-144a41?style=for-the-badge&logo=react">
+<img src="http://img.shields.io/badge/-TypeScript-144a41?style=for-the-badge&logo=typescript">
 <img src="https://img.shields.io/badge/-Material_UI-144a41?style=for-the-badge&logo=material-ui">
+<img src="https://img.shields.io/badge/-Tailwind Css-144a41?style=for-the-badge&logo=tailwind-css">
 <img src="https://img.shields.io/badge/-Bootstrap-144a41?style=for-the-badge&logo=bootstrap">
 <img src="https://img.shields.io/badge/-bulma-144a41?style=for-the-badge&logo=bulma">
+
 </p>
-<h4 align="center"> Learning</h4>
+<h4 align="center"> To Learn</h4>
 <p  align="center">
-<img src="https://img.shields.io/badge/-Tailwind Css-144a41?style=for-the-badge&logo=tailwind-css">
-<img src="https://img.shields.io/badge/-Vue JS-144a41?style=for-the-badge&logo=Vue-dot-js">
 <img src="https://img.shields.io/badge/-Numpy-144a41?style=for-the-badge&logo=Numpy">
 <img src="https://img.shields.io/badge/-GraphQL-144a41?style=for-the-badge&logo=GraphQl">
 
@@ -59,8 +58,6 @@ My name is **Antoine** aka **Ant1** 🍯
 <h4 align="center"> To learn</h4>
 <p  align="center">
 <img src="https://img.shields.io/badge/-Mongo DB-144a41?style=for-the-badge&logo=mongodb">
-<img src="http://img.shields.io/badge/-Ruby-144a41?style=for-the-badge&logo=Ruby&logoColor=CC342D">
-<img src="http://img.shields.io/badge/-TypeScript-144a41?style=for-the-badge&logo=typescript">
 </p>
  
 
