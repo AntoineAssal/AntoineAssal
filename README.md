@@ -16,15 +16,11 @@ My name is **Antoine** aka **Ant1** 🍯
 <img src="https://img.shields.io/badge/-Java-144a41?style=for-the-badge&logo=Java&logoColor=FFA518">
 <img src="http://img.shields.io/badge/-Python-144a41?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/-JavaScript-144a41?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/-HTML5-144a41?style=for-the-badge&logo=HTML5">
-<img src="https://img.shields.io/badge/-CSS3-144a41?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/-SCSS-144a41?style=for-the-badge&logo=SASS">
-<img src="https://img.shields.io/badge/-Markdown-144a41?style=for-the-badge&logo=markdown&logoColor=000000">
-<img src="https://img.shields.io/badge/-Latex-144a41?style=for-the-badge&logo=latex">
+
 </p>
 <h4 align="center"> To learn</h4>
 <p  align="center">
-<img src="http://img.shields.io/badge/-Ruby-144a41?style=for-the-badge&logo=Ruby&logoColor=CC342D">
+<img src="https://img.shields.io/badge/-Rust-144a41?style=for-the-badge&logo=Rust&logoColor=000000">
 </p>
  
 #### 👽 Frameworks / Libraries  <br />
@@ -38,13 +34,7 @@ My name is **Antoine** aka **Ant1** 🍯
 <img src="https://img.shields.io/badge/-Bootstrap-144a41?style=for-the-badge&logo=bootstrap">
 <img src="https://img.shields.io/badge/-bulma-144a41?style=for-the-badge&logo=bulma">
 
-</p>
-<h4 align="center"> To Learn</h4>
-<p  align="center">
-<img src="https://img.shields.io/badge/-Numpy-144a41?style=for-the-badge&logo=Numpy">
-<img src="https://img.shields.io/badge/-GraphQL-144a41?style=for-the-badge&logo=GraphQl">
 
-</p>
 
 
 #### 🗄️ Databases 
@@ -52,15 +42,13 @@ My name is **Antoine** aka **Ant1** 🍯
 <p  align="center">
 <img src="https://img.shields.io/badge/-PostgreSQL-144a41?style=for-the-badge&logo=postgresql&logoColor=0273B7">
 <img src="http://img.shields.io/badge/-MySQL-144a41?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-Mongo DB-144a41?style=for-the-badge&logo=mongodb">
 <img src="https://img.shields.io/badge/-Firebase-144a41?style=for-the-badge&logo=Firebase">
 <img src="https://img.shields.io/badge/-BigQuery-144a41?style=for-the-badge&logo=google-cloud">
-</p>
-<h4 align="center"> To learn</h4>
-<p  align="center">
-<img src="https://img.shields.io/badge/-Mongo DB-144a41?style=for-the-badge&logo=mongodb">
-</p>
  
+</p>
 
+ 
 #### 💾 Technologies & OS <br />
 <p  align="center">
 <img src="https://img.shields.io/badge/-Postman-144a41?style=for-the-badge&logo=postman">
@@ -84,9 +72,9 @@ My name is **Antoine** aka **Ant1** 🍯
 <img src="https://img.shields.io/badge/-IntelliJ-144a41?style=for-the-badge&logo=IntelliJ-idea&logoColor=000000">
 <img src="https://img.shields.io/badge/-Pycharm-144a41?style=for-the-badge&logo=Pycharm&logoColor=000000">
 <img src="https://img.shields.io/badge/-C Lion-144a41?style=for-the-badge&logo=clion&logoColor=000000">
-<img src="https://img.shields.io/badge/-Atom-144a41?style=for-the-badge&logo=atom&logoColor=66595C">
 <img src="http://img.shields.io/badge/-VS%20Code-144a41?style=for-the-badge&logo=visual-studio-code&logoColor=2496ed">
-<img src="https://img.shields.io/badge/-Notion-144a41?style=for-the-badge&logo=Notion&logoColor=000000">
+<img src="https://img.shields.io/badge/-Yakindu-144a41?style=for-the-badge&logo=yakindu">
+
 </p>
 <h4 align="center"> Learning</h4>
 <p  align="center">
@@ -104,12 +92,22 @@ My name is **Antoine** aka **Ant1** 🍯
 <img src="https://img.shields.io/badge/-Trello-144a41?style=for-the-badge&logo=trello&logoColor=0080ff">
 <img src="https://img.shields.io/badge/-Prezi-144a41?style=for-the-badge&logo=prezi&logoColor=0080ff">
 </p>
-<h4 align="center"> Learning</h4>
+<h4 align="center"> Fun Times</h4>
 <p  align="center">
 <img src="https://img.shields.io/badge/-Blender-144a41?style=for-the-badge&logo=Blender">
 <img src="https://img.shields.io/badge/-Cinema 4D-144a41?style=for-the-badge&logo=cinema-4d&logoColor=011A6A">
 <img src="https://img.shields.io/badge/-Spark AR-144a41?style=for-the-badge&logo=spark-ar&logoColor=FF5C83">
 
+</p>
+
+#### ✏️ Notes & Stuff <br />
+<h4 align="center"> Comfy with</h4>
+<p  align="center">
+<img src="https://img.shields.io/badge/-Markdown-144a41?style=for-the-badge&logo=markdown&logoColor=000000">
+<img src="https://img.shields.io/badge/-Latex-144a41?style=for-the-badge&logo=latex">
+<img src="https://img.shields.io/badge/-HTML5-144a41?style=for-the-badge&logo=HTML5">
+<img src="https://img.shields.io/badge/-CSS3-144a41?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/-SCSS-144a41?style=for-the-badge&logo=SASS">
 </p>
 
 <!----------Currently playing song, using Novak's repo and spotitfy API  -->
